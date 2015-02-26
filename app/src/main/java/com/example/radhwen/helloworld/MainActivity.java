@@ -25,6 +25,7 @@ public class MainActivity extends Activity {
                 firstTextView.setText("You clicked !");
             }
         });
+        // This is a simple comment
     }
 
 
